@@ -1,6 +1,6 @@
  <div class="row-fluid marketing">
-        <div class="span8">
-          <h4>Workshops</h4>
+ <div class="span8">
+ <h4>Workshops</h4>
       
 	
  <p>The 12th ACM Conference on Embedded Networked Sensor Systems (SenSys 2014) is
@@ -23,7 +23,7 @@
 <p>
 <b>2nd International Workshop on Energy Neutral Sensing Systems (ENSSys) 2014</b> <br/>
 General Chair: Dr. Geoff V Merrett (University of Southampton, UK) <br/>
-Programme Chair: Dr.-Ing. Christian Renner (University of Lübeck, Germany) <br/>
+Programme Chair: Dr.-Ing. Christian Renner (University of L&uuml;beck, Germany) <br/>
 Programme Co-Chair: Dr Davide Brunelli (University of Trento, Italy)
 </p>
 

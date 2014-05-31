@@ -53,6 +53,9 @@ the Sensys Steering Commiittee Chair (Jie Liu, jie.liu@microsoft.com).</p>
         </div>
 
         <div class="span4">
+        
+   		<div class="fb-like" data-href="https://www.facebook.com/pages/ACM-SenSys/201630776532684" data-width="300" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+        
           <h4>Important Dates</h4>
           <ul>
           <li>Paper Registration and Abstract: <br/>Mar. 28, 2014 11:59pm EST </li>
