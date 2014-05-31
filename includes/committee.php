@@ -15,6 +15,7 @@
       <li>Poster Chair: <a href="https://sites.google.com/site/ochipara/">Octav Chipara</a> (Univ. of Iowa) </li>
 	  <li>Publicity Chair: <a href="https://sites.google.com/site/branislavkusy/">Branislav Kusy</a> (CSIRO)</li>
 	  <li>N2Women Chair: <a href="https://wp.doc.ic.ac.uk/aese/person/julie-a-mccann/">Julie McCann</a>  (Imperial College London)</li>
+      <li>Doctoral Colloquium: <a href="http://users.ece.cmu.edu/~agr/">Anthony Rowe</a> and <a href="http://www.sics.se/~luca/">Luca Mottola</a></li>
 	  <li>Web Chair: <a href="http://www.cs.wm.edu/~rfd">Robert F. Dickerson</a> (William and Mary)</li>
 	  </ul>
          
