@@ -1,0 +1,11 @@
+# Site settings
+title: SenSys 2014
+email: akos.ledeczi@vanderbilt.edu
+description: "SenSys is the leading conference for research on systems of networked sensing and actuation."
+baseurl: "/2014"
+url: "http://sensys.acm.org/2014/"
+username: SenSys2014
+
+# Build settings
+markdown: kramdown
+permalink: pretty
