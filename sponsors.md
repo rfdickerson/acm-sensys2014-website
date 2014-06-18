@@ -12,3 +12,5 @@ Supporters will be acknowledged at the conference opening remark. Company names 
 
 Supporters may direct their fund to specific SenSys 2012 awards or events, such as Best Paper Award(s), Best Demo Award(s), Best Poster Award(s), Student Travel Award(s), N2Women, and conference reception. Other demands can be discussed on a case-by-case basis.
 
+<a href="http://www.isis.vanderbilt.edu"><img src="{{site.baseurl}}/resources/images/IsisLogo.jpg" alt="Software Integrated Systems Vanderbilt"/></a>
+

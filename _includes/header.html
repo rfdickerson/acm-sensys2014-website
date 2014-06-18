@@ -11,9 +11,13 @@
 
   <div class="wrap">
 	  
-	  
+	<div class="logosection">  
 
     <a class="logo" href="{{ site.baseurl }}/">SenSys 2014</a>
+    <div class="conference-date">{{ site.dates }}, {{site.location}}</div>
+    
+    <a class="buildsys" href="http://www.buildsys.org/2014/">BuildSys 2014</a>
+    </div>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -27,11 +31,18 @@
             c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
       </a>
+      
       <div class="trigger">
+        {% for link in site.links %}
+          <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+        {% endfor %}
+      </div>
+      
+      <!--div class="trigger">
         {% for page in site.pages %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endfor %}
-      </div>
+      </div-->
     </nav>
 
   </div>

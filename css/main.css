@@ -9,8 +9,8 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  font-size: 14px;
   line-height: 1.5;
   font-weight: 300;
   background-color: #fdfdfd;
@@ -405,12 +405,26 @@ a:visited { color: #205caa; }
 }
 
 .logo {
+float: left;
 	display: block;
 	  text-indent: -9999px;
-	  width: 150px;
+	  width: 250px;
 	  height: 48px;
 	  background: url(/2014/resources/images/sensys2014.svg);
-	  background-size: 150px 48px;
+	  background-size: 250px 48px;
+}
+
+.logosection {
+    clear: both;
+}
+
+.conference-date {
+	margin-top: 10px;
+}
+
+.buildsys {
+    float: right;
+ 
 }
 
 .acm {

@@ -1,10 +1,31 @@
 # Site settings
 title: SenSys 2014
+admin_name: Akos Ledeczi
 email: akos.ledeczi@vanderbilt.edu
 description: "SenSys is the leading conference for research on systems of networked sensing and actuation."
 baseurl: "/2014"
 url: "http://sensys.acm.org/2014/"
 username: SenSys2014
+location: Memphis, TN
+dates: November 3-6, 2014
+
+links:
+    -   title: About
+        url: /about/
+    -   title: CFP
+        url: /cfp/
+    -   title: Organization
+        url: /people/
+    -   title: Registration
+        url: /registration/
+    -   title: Venue
+        url: /venue/
+    -   title: Program
+        url: /program/
+    -   title: Workshops
+        url: /workshops/
+    -   title: Sponsors
+        url: /sponsors/
 
 # Build settings
 markdown: kramdown
