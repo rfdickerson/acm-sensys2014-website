@@ -22,6 +22,8 @@ links:
         url: /venue/
     -   title: Program
         url: /program/
+    -   title: Demos
+        url: /demos/
     -   title: Workshops
         url: /workshops/
     -   title: Sponsors

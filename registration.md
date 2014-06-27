@@ -10,6 +10,8 @@ Registration has not opened yet.
 
 ####Travel grants for students####
 
+[More information (pdf)]({{ site.baseurl }}/resources/documents/student-travel-grant.pdf)
+
 Important Dates:
 
 + Application Deadline: September 1, 2014

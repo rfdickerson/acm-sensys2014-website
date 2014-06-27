@@ -443,3 +443,13 @@ float: left;
 	max-width: 100%;
 	
 }
+
+.col2 {
+    width: 370px;
+    float: left;
+    margin-right: 15px;
+}
+
+.clearcols {
+    clear: both;
+}
