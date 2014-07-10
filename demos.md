@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Demos
+title: Posters and Demos
 permalink: /demos/
 ---
 
@@ -54,13 +54,15 @@ proceedings.
 
 
 If you are submitting a demo abstract, please add "Demo Abstract:"
-at the beginning of the abstract's title. Please submit your demo
-abstract here: https://www.easychair.org/conferences/?conf=sensys2014demos
+at the beginning of the abstract's title. 
+
+<a href="https://www.easychair.org/conferences/?conf=sensys2014demos">Submit your Demo</a>
 
 
 If you are submitting a poster abstract, please add "Poster Abstract:"
-at the beginning of the abstract's title. Please submit your poster
-abstract here: https://www.easychair.org/conferences/?conf=sensys2014posters
+at the beginning of the abstract's title. 
+
+<a href="https://www.easychair.org/conferences/?conf=sensys2014posters">Submit your Poster</a>
 
 
 ###POSTERS###
