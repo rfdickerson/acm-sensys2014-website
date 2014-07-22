@@ -40,6 +40,7 @@ All abstracts shall be formatted according to the main conference
 paper layout. Accepted abstracts will appear in the conference
 proceedings.
 
+[Download the LaTeX template]({{ site.baseurl }}/resources/documents/latex-sensys.zip)
 
 ####IMPORTANT DATES####
 
@@ -63,6 +64,8 @@ If you are submitting a poster abstract, please add "Poster Abstract:"
 at the beginning of the abstract's title. 
 
 <a href="https://www.easychair.org/conferences/?conf=sensys2014posters">Submit your Poster</a>
+
+
 
 
 ###POSTERS###
