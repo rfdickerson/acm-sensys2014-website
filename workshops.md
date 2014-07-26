@@ -13,7 +13,7 @@ The 12th ACM Conference on Embedded Networked Sensor Systems (SenSys 2014) is a 
 + Program Chair: Dr.-Ing. Christian Renner (University of Lübeck, Germany) 
 + Program Co-Chair: Dr Davide Brunelli (University of Trento, Italy)
 
-###1st Workshop on Mobile Medical Applications ###
+###[1st Workshop on Mobile Medical Applications](https://impact.asu.edu/MobileMedicalApplications.html) ###
 + General Chair: Sandeep K.S. Gupta (Arizona State University, USA) 
 + Program Chair: Ayan Banerjee (Arizona State University, USA)
 
