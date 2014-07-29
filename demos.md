@@ -44,7 +44,7 @@ proceedings.
 
 ####IMPORTANT DATES####
 
-- Abstract submission: July 28, 2014 (anywhere on earth)
+- Abstract submission: August 4, 2014
 
 - Notification of acceptance: August 28, 2014
 
