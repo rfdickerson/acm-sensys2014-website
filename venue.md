@@ -9,6 +9,7 @@ permalink: /venue/
 	255 North Main Street 
 	Memphis, TN 38103 
 	(901) 576-1200
+	
 
 <img src="../resources/images/cookconvention.png" alt="Memphis Cook Convention Center" class="img-rounded"/>
 
@@ -21,6 +22,11 @@ permalink: /venue/
       
       
 ### Hotel ###
+
+Register your hotel on our group rate.
+
+<a href="https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1401295063&key=4447">Register at $139/night</a>
+     
      
    
 <a href="http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=3951">Sheraton Memphis Downtown Hotel</a>
