@@ -9,14 +9,14 @@ The 12th ACM Conference on Embedded Networked Sensor Systems (SenSys 2014) is a 
 ***Workshops will be held on Thursday, Nov 6, 2014.***
 
 ###[2nd International Workshop on Energy Neutral Sensing Systems (ENSSys) 2014](http://www.enssys.org)###
-+ General Chair: Dr. Geoff V Merrett (University of Southampton, UK) 
-+ Program Chair: Dr.-Ing. Christian Renner (University of Lübeck, Germany) 
++ General Chair: Dr. Geoff V Merrett (University of Southampton, UK)
++ Program Chair: Dr.-Ing. Christian Renner (University of Lübeck, Germany)
 + Program Co-Chair: Dr Davide Brunelli (University of Trento, Italy)
 
 ###[1st Workshop on Mobile Medical Applications](https://impact.asu.edu/MobileMedicalApplications.html) ###
-+ General Chair: Sandeep K.S. Gupta (Arizona State University, USA) 
++ General Chair: Sandeep K.S. Gupta (Arizona State University, USA)
 + Program Chair: Ayan Banerjee (Arizona State University, USA)
 
 ###[Doctorial Colloquium](../dc/) ###
++ Co-Chair: Luca Mottola (Politecnico di Milano (Italy) and SICS Swedish ICT)
 + Co-Chair: Anthony Rowe (Carnegie Mellon University, USA)
-+ Co-Chair: Luca Mottola (The Swedish Institute of Computer Science, Sweden)
