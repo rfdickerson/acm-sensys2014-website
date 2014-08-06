@@ -17,6 +17,6 @@ The 12th ACM Conference on Embedded Networked Sensor Systems (SenSys 2014) is a 
 + General Chair: Sandeep K.S. Gupta (Arizona State University, USA) 
 + Program Chair: Ayan Banerjee (Arizona State University, USA)
 
-###[Doctorial Colloquium](http://submit.ece.cmu.edu/sensysDC/) ###
+###[Doctorial Colloquium](../dc/) ###
 + Co-Chair: Anthony Rowe (Carnegie Mellon University, USA)
 + Co-Chair: Luca Mottola (The Swedish Institute of Computer Science, Sweden)
