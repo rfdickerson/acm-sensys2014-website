@@ -32,7 +32,7 @@ to be held on November 6th, 2014 - and to present a poster at the main
 conference. There will be no separate registration fee for the DC.
 
 ### SUBMISSIONS ###
-Submissions must be received no later than September 15th, 2014 via  [http://submit.ece.cmu.edu/sensysDC/](http://submit.ece.cmu.edu/sensysDC/)
+Submissions must be received no later than September 2nd, 2014 via  [http://submit.ece.cmu.edu/sensysDC/](http://submit.ece.cmu.edu/sensysDC/)
 
 Submissions must be in PDF format, be written in English, of no
 more than two pages in length (all inclusive), and adhere to the SenSys
