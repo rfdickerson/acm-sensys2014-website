@@ -23,7 +23,7 @@ permalink: /venue/
       
 ### Hotel ###
 
-Register your hotel on our group rate.
+Register your hotel on our group rate by October 3, 2014.
 
 <a href="https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1401295063&key=4447">Register at $139/night</a>
      

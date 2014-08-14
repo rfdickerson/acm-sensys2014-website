@@ -48,7 +48,7 @@ proceedings.
 
 - Notification of acceptance: August 28, 2014
 
-- Camera-ready abstract: August 4, 2014 (anywhere on earth)
+- Camera-ready abstract: September 15, 2014
 
 
 ####SUBMISSION INSTRUCTIONS####
