@@ -26,6 +26,11 @@ case-by-case basis.
 
 - Association for Computing Machinery
 
+<a href="http://www.acm.org"><img height="100px" src="{{site.baseurl}}/resources/images/acm.png" alt="Assocation of Computing Machinery"/></a>
+<a href="http://www.acm.org"><img height="100px" src="{{site.baseurl}}/resources/images/acm-sig-logo.png" alt="Assocation of Computing Machinery"/></a>
+
+####Supporters####
+
 - NSF - Sponsoring the [travel grants](/2014//registration/#travelgrant)
 
 - Microsoft Research - Sponsoring Best Paper, Presentation, and Poster Awards
@@ -36,13 +41,7 @@ case-by-case basis.
 
 - Institute for Software Integrated Systems, Vanderbilt University - Sponsoring the Doctoral Colloquium
 
-<a href="http://www.acm.org"><img height="100px" src="{{site.baseurl}}/resources/images/acm.png" alt="Assocation of Computing Machinery"/></a>
-<a href="http://www.acm.org"><img height="100px" src="{{site.baseurl}}/resources/images/acm-sig-logo.png" alt="Assocation of Computing Machinery"/></a>
-
 <a href="http://www.nsf.org"><img height="100px" src="{{site.baseurl}}/resources/images/nsf.jpg" alt="National Science Foundation"/></a>
-
-
-<a href="http://www.fedex.com"><img height="100px" src="{{site.baseurl}}/resources/images/fedex.jpg" alt="FedEx"/></a>
 <a href="http://www.isis.vanderbilt.edu"><img height="100px" src="{{site.baseurl}}/resources/images/IsisLogo.jpg" alt="Software Integrated Systems Vanderbilt"/></a>
-
-<a href="http://research.microsoft.com/"><img height="40px" width="300px" src="{{site.baseurl}}/resources/images/MSRlogo.png" alt="Microsoft Research"/></a>
+<a href="http://www.fedex.com"><img height="70px" src="{{site.baseurl}}/resources/images/fedex.jpg" alt="FedEx"/></a>
+<a href="http://research.microsoft.com/"><img  src="{{site.baseurl}}/resources/images/MSRlogo.png" alt="Microsoft Research"/></a>
