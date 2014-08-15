@@ -6,10 +6,21 @@ permalink: /registration/
 
 Registration will open soon. The early registration option for conferences and
 workshops will be available until 11:59 pm EDT, October 6, 2014. You can reserve
-your hotel [here](/2014/venue).
+your hotel [here](https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1401295063&key=4447).
 
 To appear at the conference, all papers, posters, and demos must have at least
 one co-author registered at the full (non-student) rate by September 15, 2014, 11:59pm EDT.
+
+####Travel grants for students####
+<div id="travelgrant"></div>
+With support from the U.S. National Science Foundation (NSF), a limited number
+of Student Travel Grants are available. Complete application details are
+available [here (pdf)]({{ site.baseurl }}/resources/documents/student-travel-grant.pdf)
+
+The support is intended to partially cover the costs of attending the conference.
+The costs include conference registration, transportation, lodging, and meals.
+Students receiving travel awards may be expected to volunteer at SenSys'14.
+Such volunteer tasks will not interfere with attendance at conference sessions.
 
 Registration fees are as follows (all prices are in USD):
 
@@ -137,7 +148,7 @@ Registration fees are as follows (all prices are in USD):
   <td>SenSys One-Day</td>
   <td></td>
   <td></td>
-  <td>$450</td>
+  <td>$400</td>
   <td></td>
 </tr>
 </table>
@@ -187,13 +198,4 @@ Visa letters will state only the facts:
 - Conference title, dates, and location
 - Whether you are an author, speaker committee member, or attendee
 
-####Travel grants for students####
-<div id="travelgrant"></div>
-With support from the U.S. National Science Foundation (NSF), a limited number
-of Student Travel Grants are available. Complete application details are
-available [here (pdf)]({{ site.baseurl }}/resources/documents/student-travel-grant.pdf)
 
-The support is intended to partially cover the costs of attending the conference.
-The costs include conference registration, transportation, lodging, and meals.
-Students receiving travel awards may be expected to volunteer at SenSys'14.
-Such volunteer tasks will not interfere with attendance at conference sessions.
