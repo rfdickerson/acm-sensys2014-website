@@ -18,7 +18,7 @@ permalink: /people/
 + Publicity Chair: [Branislav Kusy](https://sites.google.com/site/branislavkusy/) (CSIRO)
 + N2Women Chair: [Julie McCann](https://wp.doc.ic.ac.uk/aese/person/julie-a-mccann/) (Imperial College London)
 + Doctoral Colloquium: [Anthony Rowe](http://users.ece.cmu.edu/~agr/) and [Luca Mottola](http://www.sics.se/~luca/)
-+ Web Chair: [Robert F. Dickerson](http://www.cs.wm.edu/~rfd) (William and Mary)
++ Web Chair: [Robert F. Dickerson](http://www.cs.wm.edu/~rfd) (Univ. Texas Austin)
 
 ####Technical Program Committee####
 

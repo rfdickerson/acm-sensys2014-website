@@ -12,5 +12,27 @@ Supporters will be acknowledged at the conference opening remark. Company names 
 
 Supporters may direct their fund to specific SenSys 2012 awards or events, such as Best Paper Award(s), Best Demo Award(s), Best Poster Award(s), Student Travel Award(s), N2Women, and conference reception. Other demands can be discussed on a case-by-case basis.
 
+####Sponsors####
+
+- Association for Computing Machinery
+
+- NSF - Sponsoring the [travel grants](/2014//registration/#travelgrant)
+
+- Microsoft Research - Sponsoring Best Paper, Presentation, and Poster Awards
+
+- FedEx - Sponsoring the [Demo and Poster Session](/2014/demos)
+
+- University of Memphis - Sponsoring the Best Demo Award
+
+- Software Integrated Systems Vanderbilt
+
+<a href="http://www.acm.org"><img width="200px" src="{{site.baseurl}}/resources/images/acm.png" alt="Assocation of Computing Machinery"/></a> <a href="http://www.acm.org"><img width="200px" src="{{site.baseurl}}/resources/images/acm-sig-logo.png" alt="Assocation of Computing Machinery"/></a>
+
+<a href="http://www.nsf.org"><img width="200px" src="{{site.baseurl}}/resources/images/nsf.jpg" alt="National Science Foundation"/></a>
+
+<a href="http://www.nsf.org"><img src="{{site.baseurl}}/resources/images/MSRlogo.png" alt="Microsoft Research"/></a> <a href="http://www.nsf.org"><img src="{{site.baseurl}}/resources/images/fedex.jpg" width="300px" alt="FedEx"/></a>
+
 <a href="http://www.isis.vanderbilt.edu"><img src="{{site.baseurl}}/resources/images/IsisLogo.jpg" alt="Software Integrated Systems Vanderbilt"/></a>
+
+
 

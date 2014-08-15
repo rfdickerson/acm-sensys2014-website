@@ -4,7 +4,7 @@ title: Registration
 permalink: /registration/
 ---
 
-Registration will open soon. The early registration option for conferences and workshops will be available until 11:59 pm EDT, October 6, 2014.
+Registration will open soon. The early registration option for conferences and workshops will be available until 11:59 pm EDT, October 6, 2014. You can register your [hotel here](/2014/venue).
 
 <table style="width:600px">
 <tr>
@@ -135,7 +135,9 @@ Registration will open soon. The early registration option for conferences and w
 </tr>
 </table> 
 
-If you are paying via wire transfer, send the fee indicated below in USD using the following bank information. Once you have a confirmation, send an email to the Registration Chair.
+If you are paying via wire transfer, send the fee using the following bank 
+information. Once you have a confirmation, send an email to the 
+[Registration Chair]().
 
 Bank Information: 
 
@@ -155,12 +157,12 @@ Account Holder:
 
 ####Cancellation Policy####
 
-- Cancellations requested before (11:59 pm EDT, October 23, 2014) are refundable, subject to a $50 USD handling fee
+- Cancellations requested before 11:59 pm EDT, October 23, 2014 are refundable, subject to a $50 USD handling fee
 - Cancellations requested afterwards are not refundable.
 
 ####VISA Requests####
 
-If you neeed a VISA to enter the USA, we encourage you to apply as soon as possible. ACM SENSYS 2014 can provide a letter to the following individuals: Authors of Technical or Mini-Conference Papers, Keynote, Workshop and Panel Speakers, Members of the ACM and ACM SENSYS 2014 Attendees who have a fully paid registration. Please note that what you receive is a support letter. ACM does not issue formal "letters of invitation" to any of its conferences.
+If you need a VISA to enter the USA, we encourage you to apply as soon as possible. ACM SENSYS 2014 can provide a letter to the following individuals: Authors of Technical or Mini-Conference Papers, Keynote, Workshop and Panel Speakers, Members of the ACM and ACM SENSYS 2014 Attendees who have a fully paid registration. Please note that what you receive is a support letter. ACM does not issue formal "letters of invitation" to any of its conferences.
 
 To receive a letter, please send an e-mail to supportletters@acm.org with your request including  name, mailing address, and fax number, as well as the name of the conference/workshop you are attending and a copy of the registration receipt.
 
@@ -171,14 +173,8 @@ Visa letters will state only the facts:
 
 ####Travel grants for students####
 
-With support from the U.S. National Science Foundation (NSF), a limited number of Student Travel Grants are available. Complete application details are available here.
-
 [More information (pdf)]({{ site.baseurl }}/resources/documents/student-travel-grant.pdf)
 
-Important Dates:
-
-+ Application Deadline: September 1, 2014
-+ Notification of Acceptance: September 8, 2014
 
 #####Eligibility#####
 

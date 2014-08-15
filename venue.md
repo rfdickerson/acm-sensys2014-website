@@ -16,14 +16,10 @@ permalink: /venue/
   
       
 <iframe width="380" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=216206600241149334724.0004ed87542cbb3cf2701&amp;ie=UTF8&amp;t=h&amp;ll=35.152548,-90.049972&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=216206600241149334724.0004ed87542cbb3cf2701&amp;ie=UTF8&amp;t=h&amp;ll=35.152548,-90.049972&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">Memphis Convention Center</a> in a larger map</small>
-
-      
-    
-      
-      
+  
 ### Hotel ###
 
-Register your hotel on our group rate by October 3, 2014.
+Reserve your hotel on our group rate by October 3, 2014. Even after the deadline, make sure you mention ACM SenSys 2014 when reserving your room to make sure that the conference gets on discounted meeting rooms.
 
 <a href="https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1401295063&key=4447">Register at $139/night</a>
      
