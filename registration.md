@@ -137,7 +137,7 @@ Registration will open soon. The early registration option for conferences and w
 
 If you are paying via wire transfer, send the fee using the following bank 
 information. Once you have a confirmation, send an email to the 
-[Registration Chair](mailto://akos.ledeczi@vanderbilt.edu).
+[Registration Chair](mailto:akos.ledeczi@vanderbilt.edu?Subject=SenSys%20Registration).
 
 Bank Information: 
 
