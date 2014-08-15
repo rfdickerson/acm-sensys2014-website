@@ -24,7 +24,7 @@ Supporters may direct their fund to specific SenSys 2012 awards or events, such 
 
 - University of Memphis - Sponsoring the Best Demo Award
 
-- Software Integrated Systems Vanderbilt
+- Institute for Software Integrated Systems, Vanderbilt University - Sponsoring the Doctoral Colloquium
 
 <a href="http://www.acm.org"><img width="200px" src="{{site.baseurl}}/resources/images/acm.png" alt="Assocation of Computing Machinery"/></a> <a href="http://www.acm.org"><img width="200px" src="{{site.baseurl}}/resources/images/acm-sig-logo.png" alt="Assocation of Computing Machinery"/></a>
 
