@@ -24,8 +24,6 @@ case-by-case basis.
 
 ####Sponsors####
 
-- Association for Computing Machinery
-
 <a href="http://www.acm.org"><img height="100px" src="{{site.baseurl}}/resources/images/acm.png" alt="Assocation of Computing Machinery"/></a>
 <a href="http://www.acm.org"><img height="100px" src="{{site.baseurl}}/resources/images/acm-sig-logo.png" alt="Assocation of Computing Machinery"/></a>
 
