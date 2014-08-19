@@ -89,6 +89,34 @@ Registration fees are as follows (all prices are in USD):
   <td>$500</td>
 </tr>
 <tr>
+  <td>SenSys + BuildSys</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td>ACM Member</td>
+  <td>$1,100</td>
+  <td>$1,200</td>
+  <td>$1,250</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Non-Member</td>
+  <td>$1,200</td>
+  <td>$1,300</td>
+  <td>$1,350</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Student</td>
+  <td>$500</td>
+  <td>$550</td>
+  <td>$550</td>
+</tr>
+<tr>
   <td>BuildSys</td>
   <td></td>
   <td></td>
@@ -144,6 +172,7 @@ Registration fees are as follows (all prices are in USD):
   <td>$200</td>
   <td>$200</td>
 </tr>
+
 <tr>
   <td>SenSys One-Day</td>
   <td></td>
