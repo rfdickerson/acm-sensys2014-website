@@ -4,7 +4,9 @@ title: Registration
 permalink: /registration/
 ---
 
-Registration will open soon. The early registration option for conferences and
+<a href="https://www.regonline.com/sensys2014">SenSys 2014 Registration</a>
+
+The early registration option for conferences and
 workshops will be available until 11:59 pm EDT, October 6, 2014. You can reserve
 your hotel [here](https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1401295063&key=4447).
 
