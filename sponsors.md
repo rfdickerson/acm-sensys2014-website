@@ -43,7 +43,7 @@ case-by-case basis.
 
 <a href="http://www.isis.vanderbilt.edu"><img height="100px" src="{{site.baseurl}}/resources/images/IsisLogo.jpg" alt="Software Integrated Systems Vanderbilt"/></a>
 
-<a href="http://www.fedex.com"><img height="50px" src="{{site.baseurl}}/resources/images/fedex.jpg" alt="FedEx"/></a>
+<!--a href="http://www.fedex.com"><img height="50px" src="{{site.baseurl}}/resources/images/fedex.jpg" alt="FedEx"/></a-->
 
 <a href="http://www.memphis.edu"><img height="50px" src="{{site.baseurl}}/resources/images/umemphis.png" alt="University of Memphis"/></a>
 
