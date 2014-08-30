@@ -4,6 +4,27 @@ title: Posters and Demos
 permalink: /demos/
 ---
 
+###Accepted Posters###
+
+<ul class="paper">
+{% for poster in site.data.posters %}
+  <li >
+    <span class="papertitle">{{ poster.title }}</span> <br/> <span class="authors">{{ poster.authors}}</span>
+    </li>
+{% endfor %}
+</ul>
+
+###Accepted Demos###
+
+<ul class="paper">
+{% for demo in site.data.demos %}
+  <li>
+    <span class="papertitle">{{ demo.title }}</span> <br/> <span class="authors">{{ demo.authors}}</span>
+    </li>
+{% endfor %}
+
+</ul>
+
 ###CALL FOR POSTERS AND DEMOS###
 
 

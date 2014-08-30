@@ -453,3 +453,27 @@ float: left;
 .clearcols {
     clear: both;
 }
+
+.paper {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 1em;
+}
+
+.paper li {
+  margin-bottom: 20px;
+  margin-left: 0;
+}
+
+.paper li:hover {
+  background: #eeeeee;
+}
+
+.authors {
+  font-style: italic;
+  color: #444444;
+}
+
+.papertitle {
+  font-weight: bold;
+}
