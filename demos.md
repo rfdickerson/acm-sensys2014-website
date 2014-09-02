@@ -19,7 +19,8 @@ permalink: /demos/
 <ul class="paper">
 {% for demo in site.data.demos %}
   <li>
-    <span class="papertitle">{{ demo.title }}</span> <br/> <span class="authors">{{ demo.authors}}</span>
+    <span class="papertitle">{{ demo.title }}</span> <br/> <span class="authors">{{ demo.authors}}</span><br/>
+    {{ demo.affiliation }}
     </li>
 {% endfor %}
 
