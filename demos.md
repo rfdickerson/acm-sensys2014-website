@@ -9,7 +9,7 @@ permalink: /demos/
 <ul class="paper">
 {% for poster in site.data.posters %}
   <li >
-    <span class="papertitle">{{ poster.title }}</span> <br/> <span class="authors">{{ poster.authors}}</span>
+    <span class="papertitle">{{ poster.title }}</span> <br/> <span class="authors">{{ poster.authors}}</span><br/> {{ poster.affiliation }}
     </li>
 {% endfor %}
 </ul>
