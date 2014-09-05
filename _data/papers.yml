@@ -54,9 +54,9 @@
   authors: Valentin Radu, Panagiota Katsikouli, Rik Sarkar, Mahesh K. Marina
   affiliation: University of Edinburgh
   
-- title: "TARDIS: Software-Only System-Level Record and Replay in Wireless Sensor Networks"
-  authors: Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, Patrick Eugster
-  affiliation: Purdue University
+# - title: "TARDIS: Software-Only System-Level Record and Replay in Wireless Sensor Networks"
+#  authors: Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, Patrick Eugster
+#  affiliation: Purdue University
   
 - title: Mining Users’ Signiﬁcant Driving Routes with Low-power Sensors
   authors: Sarfraz Nawaz, Cecilia Mascolo
