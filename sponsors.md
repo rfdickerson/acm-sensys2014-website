@@ -33,8 +33,6 @@ case-by-case basis.
 
 - Microsoft Research - Sponsoring Best Paper, Presentation, and Poster Awards
 
-- FedEx - Sponsoring the [Demo and Poster Session](/2014/demos)
-
 - University of Memphis - Sponsoring the Best Demo Award
 
 - Institute for Software Integrated Systems, Vanderbilt University - Sponsoring the Doctoral Colloquium
