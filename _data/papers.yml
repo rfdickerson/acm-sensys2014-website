@@ -57,6 +57,10 @@
 # - title: "TARDIS: Software-Only System-Level Record and Replay in Wireless Sensor Networks"
 #  authors: Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, Patrick Eugster
 #  affiliation: Purdue University
+
+- title: "NEAT: A Novel Energy Analysis Toolkit for Free-Roaming Smartphones"
+  authors: Niels Brouwers, Marco Zuniga, Koen Langendoen
+  affiliation: Delft University of Technology
   
 - title: Mining Users’ Signiﬁcant Driving Routes with Low-power Sensors
   authors: Sarfraz Nawaz, Cecilia Mascolo
