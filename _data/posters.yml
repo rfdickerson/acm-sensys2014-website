@@ -30,9 +30,9 @@
   authors: Ramu Reddy Vempada, Tanushyam Chattopadhyay, Kingshuk Chakravarty and Aniruddha Sinha
   affiliation: TCS Innovation Labs
  
-- title: Determine Wind Direction on Smartphones
-  authors: Xiaohui Wang
-  affiliation: Zhejiang University Hangzhou
+# - title: Determine Wind Direction on Smartphones
+#  authors: Xiaohui Wang
+#  affiliation: Zhejiang University Hangzhou
   
 - title: A Modular Architecture for Miniature Capsule Robots Based on TinyOS
   authors: Addisu Taddese, Marco Becanni, Ekawahyu Susilo, Péter Völgyesi, Ákos Lédeczi and Pietro Valdastri

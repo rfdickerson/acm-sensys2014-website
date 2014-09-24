@@ -10,8 +10,10 @@ The early registration option for conferences and
 workshops will be available until 11:59 pm EDT, October 6, 2014. You can reserve
 your hotel [here](https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1401295063&key=4447).
 
-To appear at the conference, all papers, posters, and demos must have at least
-one co-author registered at the full (non-student) rate by September 15, 2014, 11:59pm EDT.
+To appear at the conference, each paper, posters, and demo must have at least
+one unique full (non-student) registration completed by September 25, 2014, 11:59pm PDT. The same registration
+cannot count toward two works to be presented at the conference. ACM student members should pick the 'ACM Student
+Author' category corresponding to their conference to receive a discount.
 
 ####Travel grants for students####
 <div id="travelgrant"></div>
