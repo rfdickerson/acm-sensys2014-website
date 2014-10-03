@@ -483,3 +483,48 @@ float: left;
     font-weight: bold;
     color: #ff004f;
 }
+
+.programschedule {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 1em;
+}
+
+.programschedule li {
+    margin-left: 0;
+}
+
+.programblock {
+    clear: left;
+    margin-bottom: 20px;
+    margin-left: 0;
+}
+
+.programblock h2 {
+    font-size: 14pt;
+    margin: 0;
+    margin-bottom: 10px;
+    color: #551A8B;
+}
+
+.dateitem {
+    color: #333333;
+    width: 100px;
+    margin-right: 20px;
+    float: left;
+}
+
+.programdesc {
+    float: left;
+    width: 600px;
+}
+
+.programdesc ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.programdesc li {
+ margin-bottom: 10px;   
+}

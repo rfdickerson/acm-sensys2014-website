@@ -12,8 +12,9 @@ your hotel [here](https://www.starwoodmeeting.com/StarGroupsWeb/res?id=140129506
 
 To appear at the conference, each paper, posters, and demo must have at least
 one unique full (non-student) registration completed by September 25, 2014, 11:59pm PDT. The same registration
-cannot count toward two works to be presented at the conference. ACM student members should pick the 'ACM Student
-Author' category corresponding to their conference to receive a discount.
+cannot count toward two works to be presented at the conference. Authors who are ACM student members should pick the 'ACM Student
+Author' category corresponding to their conference to receive a discount. Non ACM member student authors should simply pick the BuildSys: Non-Member
+or the SenSys:Non-Member registration type.
 
 ####Travel grants for students####
 <div id="travelgrant"></div>
