@@ -8,10 +8,10 @@ permalink: /program/
 
 
 <div class="programblock"><div class="dateitem">8:30 - 8:45</div> Welcome</div>
-<div class="programblock"><div class="dateitem">8:45 - 10:00</div> Keynote #1: Hari Balakrishnan (Professor, MIT)</div>
+<div class="programblock"><div class="dateitem">8:45 - 10:00</div> <h4>Keynote #1: Hari Balakrishnan (Professor, MIT)</h4></div>
 <div class="programblock"><div class="dateitem">10:00 - 10:30</div> Break</div>
 <div class="programblock"><div class="dateitem">10:30 - 12:00</div> <div class="programdesc">
-    <h2>Session 1: Energy Harvesting, Management, and Analysis</h2>
+    <h2>Session 1</h2> <h3>Energy Harvesting, Management, and Analysis</h3>
     <ul>
       <li>Ekho: Realistic and Repeatable Experimentation for Tiny Energy-Harvesting Sensors <br/>
 	<span class="authors">Josiah Hester, Timothy Scott, Jacob Sorber (Clemson University)</span>	
@@ -30,7 +30,8 @@ permalink: /program/
   <div class="dateitem">12:00 - 1:30</div> Lunch </div>
 
 <div class="programblock"><div class="dateitem">1:30 - 3:30</div> <div class="programdesc">
-    <h2>Session 2: Tracking and Mapping for Fun and Profit</h2>
+    <h2>Session 2</h2>	
+	<h3> Tracking and Mapping for Fun and Profit</h3>
     <ul>
       <li>GruMon: Fast and Accurate Group Monitoring for Heterogeneous Urban Spaces <br/>
 	<span class="authors">Rijurekha Sen, Youngki Lee, Kasthuri Jayarajah, Archan Misra, 
@@ -56,12 +57,12 @@ permalink: /program/
 <div class="programblock"><div class="dateitem">3:30 - 4:00</div> Break</div>
 <div class="programblock"><div class="dateitem">4:00 - 5:00</div> Two-Minute Madness</div>
 <div class="programblock"><div class="dateitem">5:00 - 5:30</div> Demo/Poster Setup</div>
-<div class="programblock"><div class="dateitem">5:30 - 7:30</div> Demo/Poster Session</div>
+<div class="programblock"><div class="dateitem">5:30 - 7:30</div> <h4>Demo/Poster Session</h4></div>
 
 <h3>Tuesday, November 4</h3>
 
 <div class="programblock"><div class="dateitem">8:30 - 10:00</div> <div class="programdesc">
-    <h2>Session 3: Communication Systems</h2>
+    <h2>Session 3</h2><h3>Communication Systems</h3>
     <ul>
       <li>RushNet: Practical Traffic Prioritization for Saturated Wireless Sensor Networks <br/>
 	<span class="authors">Chieh-Jan Mike Liang (Microsoft Research), Kaifei Chen (UC Berkeley), Nissanka Bodhi Priyantha, Jie Liu, Feng Zhao (Microsoft Research)
@@ -83,7 +84,7 @@ permalink: /program/
   <div class="dateitem">10:00 - 10:30</div> Break </div>
 
 <div class="programblock"><div class="dateitem">10:30 - 12:00</div> <div class="programdesc">
-    <h2>Session 4: Security, Privacy, and Drones</h2>
+    <h2>Session 4</h2> <h3>Security, Privacy, and Drones</h3>
     <ul>
       <li>Kinesis: A Security Incident Response and Prevention System for Wireless Sensor Networks <br/>
 	<span class="authors">Salmin Sultana, Daniele Midi, Elisa Bertino (Purdue University)
@@ -103,11 +104,11 @@ permalink: /program/
   </ul>
 </div>
 </div>
-<div class="programblock"><div class="dateitem">12:00 - 1:00</div> Lunch & Pro Tip Talks: Life Lessons for Grad Students and Young Professionals (Sponsor:
-N^2Women)
+<div class="programblock"><div class="dateitem">12:00 - 1:00</div> <h4>Lunch & Pro Tip Talks: Life Lessons for Grad Students and Young Professionals <br/> (
+N^2Women)</h4>
 </div>
 <div class="programblock"><div class="dateitem">1:00 - 2:00</div> <div class="programdesc">
-    <h2>Session 5: Achieving Context Awareness</h2>
+    <h2>Session 5</h2><h3>Achieving Context Awareness</h3>
     <ul>
       <li>Using Mobile Phone Barometer for Low-Power Transportation Context Detection <br/>
 	<span class="authors">Kartik Sankaran, Minhui Zhu, Xiangfa Guo, Akkihebbal L. Ananda, Mun Choon Chan (National University of Singapore), Li-Shiuan Peh (Massachusetts Institute of Technology)
@@ -125,7 +126,7 @@ N^2Women)
 <div class="programblock"><div class="dateitem">2:00 - 3:00</div> Test of Time Awards and Panel: Infrastructure Needs and New Directions</div>
 <div class="programblock"><div class="dateitem">3:00 - 3:30</div> Break</div>
 <div class="programblock"><div class="dateitem">3:30 - 5:00</div> <div class="programdesc">
-    <h2>Session 6: Sensor Applications</h2>
+    <h2>Session 6</h2><h3>Sensor Applications</h3>
     <ul>
       <li>CarLog: A Platform for Flexible and Efficient Automotive Sensing <br/>
 	<span class="authors">Yurong Jiang, Hang Qiu, Matthew McCartney (University of Southern California), Fan Bai, Donald Grimm (General Motors Global R&D), Ramesh Govindan (University of Southern California)
@@ -146,14 +147,14 @@ N^2Women)
 </div>
 </div>
 <div class="programblock"><div class="dateitem">5:00 - 6:00</div> Business Meeting</div>
-<div class="programblock"><div class="dateitem">7:00 - 10:00</div> Banquet</div>
+<div class="programblock"><div class="dateitem">7:00 - 10:00</div> <h4>Banquet</h4></div>
 
 <h3>Wednesday, November 5</h3>
 
-<div class="programblock"><div class="dateitem">8:45 - 10:00</div> Keynote #2: Clas Jacobsen</div>
+<div class="programblock"><div class="dateitem">8:45 - 10:00</div> Keynote #2: Clas Jacobsen (Chief Scientist, UTRC)</div>
 <div class="programblock"><div class="dateitem">10:00 - 10:30</div> Break</div>
 <div class="programblock"><div class="dateitem">10:30 - 12:00</div> <div class="programdesc">
-    <h2>Session 7: Monitoring and Imaging, Indoors and Out</h2>
+    <h2>Session 7</h2><h3>Monitoring and Imaging, Indoors and Out</h3>
     <ul>
       <li>Feasibility and Limits of Wi-Fi Imaging <br/>
 	<span class="authors">Donny Huang, Rajalakshmi Nandakumar, Shyamnath Gollakota (University of Washington)
