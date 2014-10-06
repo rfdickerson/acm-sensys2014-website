@@ -33,7 +33,7 @@ case-by-case basis.
 
 - Microsoft Research - Sponsoring Best Paper, Presentation, and Poster Awards
 
-- University of Memphis - Sponsoring the Best Demo Award
+- MD2K - Sponsoring the Best Demo Award
 
 - Institute for Software Integrated Systems, Vanderbilt University - Sponsoring the Doctoral Colloquium
 
@@ -42,6 +42,8 @@ case-by-case basis.
 <a href="http://www.isis.vanderbilt.edu"><img height="100px" src="{{site.baseurl}}/resources/images/IsisLogo.jpg" alt="Software Integrated Systems Vanderbilt"/></a>
 
 <!--a href="http://www.fedex.com"><img height="50px" src="{{site.baseurl}}/resources/images/fedex.jpg" alt="FedEx"/></a-->
+
+<a href="http://md2k.org"><img height="70px" src="{{site.baseurl}}/resources/images/md2k.jpg" alt="Center for Excellence for Mobile Sensor Data to Knowledge"/></a>
 
 <a href="http://www.memphis.edu"><img height="50px" src="{{site.baseurl}}/resources/images/umemphis.png" alt="University of Memphis"/></a>
 

@@ -18,7 +18,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
+a         { color: #003a9c; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
 
@@ -476,7 +476,7 @@ float: left;
 
 .papertitle {
   font-weight: bold;
-  color: #551A8B;
+  color: #003a9c;
 }
 
 .highlight {
@@ -511,7 +511,7 @@ float: left;
     font-size: 12pt;
     margin: 0;
     margin-bottom: 10px;
-    color: #000080;
+    color: #003a9c;
 }
 
 .programblock h4 {
