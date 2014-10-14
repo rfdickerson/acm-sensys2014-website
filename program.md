@@ -18,7 +18,7 @@ permalink: /program/
       </li>
       <li>
 	NEAT: A Novel Energy Analysis Toolkit for Free-Roaming Smartphones <br/>
-	<span class="authors">Marco Zuniga, Koen Langendoen (Delft University of Technology)</span>
+	<span class="authors">Niels Brouwers, Marco Zuniga, Koen Langendoen (Delft University of Technology)</span>
       </li>
       <li>Dynamic Power Management for Long-Term Energy Neutral Operation of Solar Energy Harvesting Systems <br/>
 	 <span class="authors">Bernhard Buchli, Felix Sutton, Jan Beutel, Lothar Thiele (ETH Zurich)</span>

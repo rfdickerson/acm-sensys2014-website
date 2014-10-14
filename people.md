@@ -8,7 +8,7 @@ permalink: /people/
 
 + Chair: [Akos Ledeczi](http://www.isis.vanderbilt.edu/akos/) (Vanderbilt)
 + TPC Chairs: [Prabal Dutta](http://web.eecs.umich.edu/~prabal/) (Univ. of Michigan) and [Chenyang Lu](http://www.cs.wustl.edu/~lu/) (Washington Univ. in St. Louis)
-+ Local Arrangements: [Timothy Hnat](http://www.cs.memphis.edu/~hnat/) (University of Memphis)
++ Local Arrangements: [Timothy Hnat](http://www.cs.memphis.edu/~hnat/) (MD2K)
 + Finance Chair: [Omprakash Gnawali](http://www2.cs.uh.edu/~gnawali/) (University of Houston)
 + Travel Grants: [Radu Stoleru](http://faculty.cs.tamu.edu/stoleru/) (Texas A&M)
 + Publications Chair: [Rasit Eskicioglu](http://www.cs.umanitoba.ca/~rasit/) (University of Manitoba)
