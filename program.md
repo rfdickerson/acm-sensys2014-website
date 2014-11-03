@@ -8,7 +8,9 @@ permalink: /program/
 
 
 <div class="programblock"><div class="dateitem">8:30 - 8:45</div> Welcome</div>
-<div class="programblock"><div class="dateitem">8:45 - 10:00</div> <h4><a href="{{site.baseurl}}/keynote">Keynote #1: Hari Balakrishnan</a>   (Professor, MIT)</h4></div>
+<div class="programblock"><div class="dateitem">8:45 - 10:00</div> <h4><a href="{{site.baseurl}}/keynote">Keynote #1: Hari Balakrishnan</a>   (Professor, MIT)</h4>
+Making Roads Safer by Making Drivers better
+</div>
 <div class="programblock"><div class="dateitem">10:00 - 10:30</div> Break</div>
 <div class="programblock"><div class="dateitem">10:30 - 12:00</div> <div class="programdesc">
 <h2>Session 1</h2> <h3>Energy Harvesting, Management, and Analysis</h3>
@@ -164,7 +166,9 @@ Session chair: Janos Sallai <br/><br/>
 
 <h3>Wednesday, November 5</h3>
 
-<div class="programblock"><div class="dateitem">8:45 - 10:00</div> Keynote #2: Clas Jacobsen (Chief Scientist, UTRC)</div>
+<div class="programblock"><div class="dateitem">8:45 - 10:00</div> <h4>Keynote #2: George R. Hernandez (PNNL, US DOE) </h4>
+How I Learned to Stop Worrying and Love Transactions
+</div>
 <div class="programblock"><div class="dateitem">10:00 - 10:30</div> Break</div>
 <div class="programblock"><div class="dateitem">10:30 - 12:00</div> <div class="programdesc">
 <h2>Session 7</h2><h3>Monitoring and Imaging, Indoors and Out</h3>
