@@ -8,10 +8,11 @@ permalink: /program/
 
 
 <div class="programblock"><div class="dateitem">8:30 - 8:45</div> Welcome</div>
-<div class="programblock"><div class="dateitem">8:45 - 10:00</div> <h4>Keynote #1: Hari Balakrishnan (Professor, MIT)</h4></div>
+<div class="programblock"><div class="dateitem">8:45 - 10:00</div> <h4><a href="{{site.baseurl}}/keynote">Keynote #1: Hari Balakrishnan</a>   (Professor, MIT)</h4></div>
 <div class="programblock"><div class="dateitem">10:00 - 10:30</div> Break</div>
 <div class="programblock"><div class="dateitem">10:30 - 12:00</div> <div class="programdesc">
-    <h2>Session 1</h2> <h3>Energy Harvesting, Management, and Analysis</h3>
+<h2>Session 1</h2> <h3>Energy Harvesting, Management, and Analysis</h3>
+Session chair: Phil Levis <br/><br/>
     <ul>
       <li>Ekho: Realistic and Repeatable Experimentation for Tiny Energy-Harvesting Sensors <br/>
 	<span class="authors">Josiah Hester, Timothy Scott, Jacob Sorber (Clemson University)</span>	
@@ -30,8 +31,9 @@ permalink: /program/
   <div class="dateitem">12:00 - 1:30</div> Lunch </div>
 
 <div class="programblock"><div class="dateitem">1:30 - 3:30</div> <div class="programdesc">
-    <h2>Session 2</h2>	
+<h2>Session 2</h2>	
 	<h3> Tracking and Mapping for Fun and Profit</h3>
+	Session chair: Thomas Schmid <br/><br/>
     <ul>
       <li>GruMon: Fast and Accurate Group Monitoring for Heterogeneous Urban Spaces <br/>
 	<span class="authors">Rijurekha Sen, Youngki Lee, Kasthuri Jayarajah, Archan Misra, 
@@ -41,7 +43,7 @@ permalink: /program/
       <li>
 	Opo: Infrastructure Free Human Contact Sensing <br/>
 	<span class="authors"> William Huang, Ye-Sheng Kuo, Patrick Pannuto, Prabal Dutta (University of Michigan)
-</span>
+	</span>
       </li>
       <li>MobyDick: An Interactive Multi-swimmer Exergame <br/>
 	<span class="authors">Woohyeok Choi, Jeungmin Oh (KAIST), Taiwoo Park (Michigan State University), Sungjun Kang, Miri Moon, Uichin Lee (KAIST), Inseok Hwang (IBM Research Austin), Junehwa Song (KAIST)
@@ -62,7 +64,8 @@ permalink: /program/
 <h3>Tuesday, November 4</h3>
 
 <div class="programblock"><div class="dateitem">8:30 - 10:00</div> <div class="programdesc">
-    <h2>Session 3</h2><h3>Communication Systems</h3>
+<h2>Session 3</h2><h3>Communication Systems</h3>
+Session chair: Jun Luo <br/><br/>
     <ul>
       <li>RushNet: Practical Traffic Prioritization for Saturated Wireless Sensor Networks <br/>
 	<span class="authors">Chieh-Jan Mike Liang (Microsoft Research), Kaifei Chen (UC Berkeley), Nissanka Bodhi Priyantha, Jie Liu, Feng Zhao (Microsoft Research)
@@ -84,8 +87,9 @@ permalink: /program/
   <div class="dateitem">10:00 - 10:30</div> Break </div>
 
 <div class="programblock"><div class="dateitem">10:30 - 12:00</div> <div class="programdesc">
-    <h2>Session 4</h2> <h3>Security, Privacy, and Drones</h3>
-    <ul>
+<h2>Session 4</h2> <h3>Security, Privacy, and Drones</h3>
+Session chair: Bodhi Priyantha <br/><br/>
+<ul>
       <li>Kinesis: A Security Incident Response and Prevention System for Wireless Sensor Networks <br/>
 	<span class="authors">Salmin Sultana, Daniele Midi, Elisa Bertino (Purdue University)
 	</span>	
@@ -108,7 +112,8 @@ permalink: /program/
 N^2Women)</h4>
 </div>
 <div class="programblock"><div class="dateitem">1:00 - 2:00</div> <div class="programdesc">
-    <h2>Session 5</h2><h3>Achieving Context Awareness</h3>
+<h2>Session 5</h2><h3>Achieving Context Awareness</h3>
+Session chair: Koen Langendoen <br/><br/>
     <ul>
       <li>Using Mobile Phone Barometer for Low-Power Transportation Context Detection <br/>
 	<span class="authors">Kartik Sankaran, Minhui Zhu, Xiangfa Guo, Akkihebbal L. Ananda, Mun Choon Chan (National University of Singapore), Li-Shiuan Peh (Massachusetts Institute of Technology)
@@ -123,11 +128,19 @@ N^2Women)</h4>
   </ul>
 </div>
 </div>
-<div class="programblock"><div class="dateitem">2:00 - 3:00</div> Test of Time Awards and Panel: Infrastructure Needs and New Directions</div>
+
+<div class="programblock"><div class="dateitem">2:00 - 3:00</div>  
+ <div class="programdesc"> Test of Time Awards and Panel 
+    <h2>SenSys in a Dozen: Lessons Learned and Directions to Set</h2>
+    <p><span class="authors">Phil Levis (Stanford), Thomas Schmid (Univ. of Utah), Koen Langendoen (Delft University), Thyaga Nandagopal (NSF)</span></p>
+</div>
+</div>
+
 <div class="programblock"><div class="dateitem">3:00 - 3:30</div> Break</div>
 <div class="programblock"><div class="dateitem">3:30 - 5:00</div> <div class="programdesc">
-    <h2>Session 6</h2><h3>Sensor Applications</h3>
-    <ul>
+<h2>Session 6</h2><h3>Sensor Applications</h3>
+Session chair: Janos Sallai <br/><br/>
+<ul>
       <li>CarLog: A Platform for Flexible and Efficient Automotive Sensing <br/>
 	<span class="authors">Yurong Jiang, Hang Qiu, Matthew McCartney (University of Southern California), Fan Bai, Donald Grimm (General Motors Global R&D), Ramesh Govindan (University of Southern California)
 	</span>	
@@ -154,7 +167,8 @@ N^2Women)</h4>
 <div class="programblock"><div class="dateitem">8:45 - 10:00</div> Keynote #2: Clas Jacobsen (Chief Scientist, UTRC)</div>
 <div class="programblock"><div class="dateitem">10:00 - 10:30</div> Break</div>
 <div class="programblock"><div class="dateitem">10:30 - 12:00</div> <div class="programdesc">
-    <h2>Session 7</h2><h3>Monitoring and Imaging, Indoors and Out</h3>
+<h2>Session 7</h2><h3>Monitoring and Imaging, Indoors and Out</h3>
+Session chair: Xiaofan (Fred) Jiang <br/><br/>
     <ul>
       <li>Feasibility and Limits of Wi-Fi Imaging <br/>
 	<span class="authors">Donny Huang, Rajalakshmi Nandakumar, Shyamnath Gollakota (University of Washington)
