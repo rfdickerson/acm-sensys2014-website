@@ -4,7 +4,7 @@ title: SenSys Doctoral Colloquium
 permalink: /dc/
 ---
 
-<h3>Monday, November 6, 2014</h3>
+<h3>Thursday, November 6, 2014</h3>
 
 
 <div class="programblock"><div class="dateitem">7:30 - 8:30</div> Breakfast</div>

@@ -166,7 +166,7 @@ Session chair: Janos Sallai <br/><br/>
 
 <h3>Wednesday, November 5</h3>
 
-<div class="programblock"><div class="dateitem">8:45 - 10:00</div> <h4>Keynote #2: George R. Hernandez (PNNL, US DOE) </h4>
+<div class="programblock"><div class="dateitem">8:45 - 10:00</div> <h4><a href="{{site.baseurl}}/keynote#hernandez">Keynote #2: George R. Hernandez </a> (PNNL, US DOE) </h4>
 How I Learned to Stop Worrying and Love Transactions
 </div>
 <div class="programblock"><div class="dateitem">10:00 - 10:30</div> Break</div>
